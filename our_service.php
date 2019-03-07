@@ -1,20 +1,4 @@
-<section class="page-title-section">
-						<div class="container">
-							<div class="row">
-								<div class="col-xs-12">
-									<div class="page-header-wrap">
-										<div class="page-header">
-									   		<h1>Our Services</h1>
-									   	</div>
-									   <ol class="breadcrumb">
-										  <li><a href="#">Home</a></li>
-										  <li class="active">Services</li>
-										</ol>
-									</div>
-								</div>
-							</div>
-						</div>
-					</section>
+
 
 					<section class="service-page-contents section-padding">
 						<div class="container">

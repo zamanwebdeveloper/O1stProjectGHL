@@ -236,15 +236,6 @@ input[type="password"] {
             
                <div class="slider-wrapper theme-default">
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
                     <div id="slider" class="nivoSlider"> 
                     <img src="slider/1.jpg" data-thumb="demo/images/toystory.jpg" alt="" /> 
                     <img src="slider/2.jpg" data-thumb="demo/images/up.jpg" alt="" title="This is an example of a caption" />
@@ -274,7 +265,7 @@ input[type="password"] {
 					
 					
 				
-<h3 style="text-align:left; font:arial; color:#EE0000; margin-left:10px; padding-top:15px">Our Mission</h3>
+<h3 style="text-align:left; font:arial; color:#EE0000; margin-left:10px; padding-top:15px">Our Mission(TEST)</h3>
 	<p style="font-family:tahoma; text-align:justify; font-size:16px; margin:5px 30px 5px 30px;">
 					“Service with ZERO defects.”. 
 	</p>

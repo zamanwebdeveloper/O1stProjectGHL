@@ -1,9 +1,7 @@
 
 			        <!-- copyright-section start -->
 			        <footer class="copyright-section">
-			        	<div class="container text-center">
-			        	
-
+			        	<div class="container text-center"> 
 			        		<div class="copyright-info">
 			        			<span>Proudly powered by <a href="http://ssmtech.net">SSM Technology</span>
 			        		</div>
