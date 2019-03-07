@@ -1,0 +1,45 @@
+.generalTitle1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #416780
+}
+.generalTitle2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #416780
+}
+.generalTitle3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #416780
+}
+.generalTitle4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+.generalText {
+	FONT-SIZE: 12px; COLOR: #416780
+}
+.eProfitsRightBoxTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: white
+}
+.eProfitsRightBoxContent {
+	FONT-SIZE: 11px; COLOR: white
+}
+.generalTitleSearch {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #416780; TEXT-DECORATION: underline
+}
+.generalTitleSearch:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #416780; TEXT-DECORATION: underline
+}
+.generalTitleSearch:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #416780; TEXT-DECORATION: underline
+}
+H1 {
+	MARGIN-TOP: 1px; FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN-BOTTOM: 1px; COLOR: #416780
+}
+H2 {
+	MARGIN-TOP: 1px; FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN-BOTTOM: 1px
+}
+H3 {
+	MARGIN-TOP: 1px; FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-BOTTOM: 1px; COLOR: #416780
+}
+H4 {
+	MARGIN-TOP: 1px; FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN-BOTTOM: 1px
+}
+.generalTextSmall {
+	FONT-SIZE: 10px
+}
